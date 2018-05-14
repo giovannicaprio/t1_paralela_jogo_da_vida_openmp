@@ -1,0 +1,1 @@
+# t1_paralela_jogo_da_vida_openmp
